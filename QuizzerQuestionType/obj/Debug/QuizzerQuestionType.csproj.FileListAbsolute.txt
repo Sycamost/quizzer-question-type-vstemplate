@@ -1,0 +1,8 @@
+C:\Users\joeac\source\repos\QuizzerQuestionType\QuizzerQuestionType\obj\Debug\_EmptyResource.resources
+C:\Users\joeac\source\repos\QuizzerQuestionType\QuizzerQuestionType\obj\Debug\QuizzerQuestionType.csproj.GenerateResource.cache
+C:\Users\joeac\source\repos\QuizzerQuestionType\QuizzerQuestionType\obj\Debug\QuizzerQuestionType.csproj.CoreCompileInputs.cache
+C:\Users\joeac\source\repos\QuizzerQuestionType\QuizzerQuestionType\obj\Debug\QuizzerQuestionType.dll
+C:\Users\joeac\source\repos\QuizzerQuestionType\QuizzerQuestionType\obj\Debug\QuizzerQuestionType.pdb
+C:\Users\joeac\source\repos\QuizzerQuestionType\QuizzerQuestionType\bin\Debug\ItemTemplates\VC\1033\QuizzerQuestionType.zip
+C:\Users\joeac\source\repos\QuizzerQuestionType\QuizzerQuestionType\obj\Debug\VC\1033\QuizzerQuestionType.zip
+C:\Users\joeac\source\repos\QuizzerQuestionType\QuizzerQuestionType\obj\Debug\QuizzerQuestionType.csprojAssemblyReference.cache
